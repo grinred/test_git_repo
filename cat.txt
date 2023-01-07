@@ -1,5 +1,3 @@
 FIRST commit
 SECOND COMMIT
 THIRD COMMIT
-unstage 
-bad commit
